@@ -1,2 +1,0 @@
-# Capturador
-Capturador de Pantalla 

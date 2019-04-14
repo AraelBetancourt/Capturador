@@ -1,0 +1,16 @@
+C:\Users\Betancourt\documents\visual studio 2015\Projects\CapturadorDePantalla\CapturadorDePantalla\bin\Debug\CapturadorDePantalla.exe
+C:\Users\Betancourt\documents\visual studio 2015\Projects\CapturadorDePantalla\CapturadorDePantalla\bin\Debug\CapturadorDePantalla.exe.config
+C:\Users\Betancourt\documents\visual studio 2015\Projects\CapturadorDePantalla\CapturadorDePantalla\bin\Debug\CapturadorDePantalla.exe.manifest
+C:\Users\Betancourt\documents\visual studio 2015\Projects\CapturadorDePantalla\CapturadorDePantalla\bin\Debug\CapturadorDePantalla.application
+C:\Users\Betancourt\documents\visual studio 2015\Projects\CapturadorDePantalla\CapturadorDePantalla\obj\Debug\CapturadorDePantalla.Form1.resources
+C:\Users\Betancourt\documents\visual studio 2015\Projects\CapturadorDePantalla\CapturadorDePantalla\obj\Debug\CapturadorDePantalla.Properties.Resources.resources
+C:\Users\Betancourt\documents\visual studio 2015\Projects\CapturadorDePantalla\CapturadorDePantalla\obj\Debug\CapturadorDePantalla.csproj.GenerateResource.Cache
+C:\Users\Betancourt\documents\visual studio 2015\Projects\CapturadorDePantalla\CapturadorDePantalla\obj\Debug\CapturadorDePantalla.TrustInfo.xml
+C:\Users\Betancourt\documents\visual studio 2015\Projects\CapturadorDePantalla\CapturadorDePantalla\obj\Debug\CapturadorDePantalla.exe.manifest
+C:\Users\Betancourt\documents\visual studio 2015\Projects\CapturadorDePantalla\CapturadorDePantalla\obj\Debug\CapturadorDePantalla.application
+C:\Users\Betancourt\documents\visual studio 2015\Projects\CapturadorDePantalla\CapturadorDePantalla\obj\Debug\CapturadorDePantalla.exe
+C:\Users\Betancourt\documents\visual studio 2015\Projects\CapturadorDePantalla\CapturadorDePantalla\obj\Debug\CapturadorDePantalla.pdb
+C:\Users\Betancourt\documents\visual studio 2015\Projects\CapturadorDePantalla\CapturadorDePantalla\bin\Debug\CapturadorDePantalla.pdb
+C:\Users\Betancourt\Documents\Visual Studio 2015\Projects\CapturadorDePantalla\CapturadorDePantalla\obj\Debug\CapturadorDePantalla.csprojResolveAssemblyReference.cache
+C:\Users\Betancourt\documents\visual studio 2015\Projects\CapturadorDePantalla\CapturadorDePantalla\obj\Debug\CapturadorDePantalla.Contraseña.resources
+C:\Users\Betancourt\documents\visual studio 2015\Projects\CapturadorDePantalla\CapturadorDePantalla\obj\Debug\CapturadorDePantalla.Inicio.resources
